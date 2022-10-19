@@ -13679,7 +13679,7 @@ h3.titular-title { font-size: 2rem; }
 .heading-block h4 + span { font-size: 1.25rem; }
 
 .heading-block::after {
-	content: '';
+	/*content: '';*/
 	display: block;
 	margin-top: 30px;
 	width: 40px;
